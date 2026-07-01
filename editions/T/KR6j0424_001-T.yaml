@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6j0424/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巴看落目瓦傳元甘泉馬蹄山中川守分真師姪智慧譯敬禮一切諸佛菩薩救護一切面前住究竟發於菩提心一切有情作利益輪迴有情至彼岸癡心瞋心本自性慳貪貢高本自性始從今日至菩提未證中間不復造惡業貪瞋皆捨離制學依行恒歡喜隨喜正覺解所行自己恒時所修善不取菩提之正路若一有情未出離住於暗劫恒化利無量不思議劫中願常恒遊佛淨土某甲執名所作罪十方界中普皆聞自己身語之惡業於一切處恒清淨意中惡業亦清淨無邊惡業不復造聖者文殊師利往昔為啞馬國王時於雷音王佛處發此菩提心願文
+  hash: sha256:14075ce7d3874ad122f67e219f6de3fab99cf1266d991cf2eff9bd977f9d0f37
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 聖者文殊師利發菩提心願文, id: KR6j0424_T_001-juan-start, juan_n: '001', jhead: 聖者文殊師利發菩提心願文}
+metadata:
+  title: 聖者文殊師利發菩提心願文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1198.xml
+    old_id: T20n1198
+hash: sha256:89fb6c50b452f08006dba3230a04a0cde73f8c82c3a52f496f3e17c0892b47bb

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0424/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖者文殊師利發菩提心願文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1198.xml
+    old_id: T20n1198
+hash: sha256:5e071299a380a185a4155c21757c475564e687c8d871440e794838a32b3ef571
