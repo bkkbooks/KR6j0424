@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0424_000.yaml, hash: 'sha256:5e071299a380a185a4155c21757c475564e687c8d871440e794838a32b3ef571'}
-  - {seq: 1, filename: KR6j0424_001.yaml, hash: 'sha256:72397ea49c4c8ee8e8649fe2cc5bbc63517501f4ee529d425d2d463c0fd7ea19'}
+  - {seq: 1, filename: KR6j0424_001.yaml, hash: 'sha256:89fb6c50b452f08006dba3230a04a0cde73f8c82c3a52f496f3e17c0892b47bb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0424_001.markers.yaml, hash: 'sha256:1aadd0ff50b32a270c67b100976bc187ad0ca8cf015c061e62bf20ecb71ffb07'}
+  - {seq: 0, role: markers, filename: assets/KR6j0424_000.markers.yaml, hash: 'sha256:b57289e3a8d517d9c1918eb4468934210d050a9a7ef20dbaf6180425b7d5ac23'}
+  - {seq: 1, role: markers, filename: assets/KR6j0424_001.markers.yaml, hash: 'sha256:cce13882b6310e23cd04bc4297153537d4831bce4dfaf0b7ed8c7ca2b419667b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 聖者文殊師利發菩提心願文
   type: juan
   level: 1
-hash: sha256:667d1103e201eba2e311c4a2877a7180a20c80b96c5debe561efdc0c4d442e57
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8d66c675a56a8cc2d1ca9727106871ebd715d2fb1acdb74b8e908d5ca6f6f8f4
