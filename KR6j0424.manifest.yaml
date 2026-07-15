@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0424/v1
 canonical_location: https://kanripo.org/bkk/KR6j0424/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖者文殊師利發菩提心願文
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0424_000.yaml, hash: 'sha256:5e071299a380a185a4155c21757c475564e687c8d871440e794838a32b3ef571'}
-  - {seq: 1, filename: KR6j0424_001.yaml, hash: 'sha256:89fb6c50b452f08006dba3230a04a0cde73f8c82c3a52f496f3e17c0892b47bb'}
+  - {seq: 1, filename: KR6j0424_001.yaml, hash: 'sha256:72397ea49c4c8ee8e8649fe2cc5bbc63517501f4ee529d425d2d463c0fd7ea19'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0424_000.markers.yaml, hash: 'sha256:b57289e3a8d517d9c1918eb4468934210d050a9a7ef20dbaf6180425b7d5ac23'}
-  - {seq: 1, role: markers, filename: assets/KR6j0424_001.markers.yaml, hash: 'sha256:cce13882b6310e23cd04bc4297153537d4831bce4dfaf0b7ed8c7ca2b419667b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0424_001.markers.yaml, hash: 'sha256:f43f94244d921cdd7c9ea16ebc4d48cf121945e4c4181e5a3c84600921c8ea31'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,7 @@ table_of_contents:
   label: 聖者文殊師利發菩提心願文
   type: juan
   level: 1
-hash: sha256:8d66c675a56a8cc2d1ca9727106871ebd715d2fb1acdb74b8e908d5ca6f6f8f4
+hash: sha256:f6f622298cf65c1e6b9402c2bf493f104d33309b66a06f928f0fbfb83f1eefc2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
